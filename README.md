@@ -42,10 +42,9 @@
         - how to get optitrack ground truth? Is mobilebot broadcasting optitrack?
         - what is OPTITRACK_CHANNEL?
 3.1
-    - (tyz)
     - what is the difference between sweep lidar and rplidar?
     - modify src/mapping
     - run `slam --mapping-only`
 3.2
-    - action model (zhuxf)
-    - sensor model (zhsh)
+    - action model
+    - sensor model
